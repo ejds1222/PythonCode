@@ -1,1 +1,2 @@
-print("Hellow World")
+print("Hello World")
+print("Github is a thing")
